@@ -1,0 +1,27 @@
+BIV-201;2020;B;Computer Science;Ivanov A.;25
+BIV-202;2020;B;Computer Science;Petrov S.;23
+BIV-203;2020;B;Computer Science;Sidorov M.;27
+MIV-301;2019;M;Computer Science;Kozlov D.;14
+MIV-302;2019;M;Computer Science;Smirnov V.;12
+BPH-101;2021;B;Physics;Volkov A.;28
+BPH-102;2021;B;Physics;Lebedev I.;26
+SPH-201;2020;S;Physics;Sokolov P.;19
+MPH-301;2018;M;Physics;Mikhailov E.;10
+BMA-201;2020;B;Mathematics;Fedorov K.;30
+BMA-202;2020;B;Mathematics;Morozov O.;29
+SMA-301;2018;S;Mathematics;Pavlov R.;22
+MMA-401;2017;M;Mathematics;Semenov G.;8
+BEC-101;2021;B;Economics;Golubev A.;35
+BEC-102;2021;B;Economics;Vinogradov B.;33
+SEC-201;2019;S;Economics;Bogdanov C.;24
+MEC-301;2017;M;Economics;Vorobyov D.;15
+BLW-101;2022;B;Law;Andreev F.;40
+BLW-102;2022;B;Law;Komarov H.;38
+SLW-201;2020;S;Law;Antonov J.;27
+MLW-301;2018;M;Law;Filippov L.;13
+BMD-101;2021;B;Medicine;Zhukov N.;45
+BMD-102;2021;B;Medicine;Frolov P.;43
+SMD-201;2019;S;Medicine;Tarasov R.;30
+MMD-401;2016;M;Medicine;Belyaev T.;9
+BCS-201;2022;B;Computer Science;Orlov X.;22
+BCS-202;2022;B;Computer Science;Kiselyov Y.;24
